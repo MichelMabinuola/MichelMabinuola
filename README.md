@@ -14,7 +14,7 @@ As a Data Artisan with expertise spanning across Data Engineering, Data Analysis
          <img alt="Email Address" title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
      </a> 
      <a href="https://MichelMabinuola.github.io/Michael-Portfolio">
-         <img alt="Website" title="Website-portfolio" src="https://icons8.com/icon/1349/website"/>
+         <img alt="Website" title="Website-portfolio" src="../MichaelMabinuola/assets/icons/web.svg"/>
      </a> 
 
    </p>
