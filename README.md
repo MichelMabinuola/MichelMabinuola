@@ -10,7 +10,7 @@ As a Data Artisan with expertise spanning across Data Engineering, Data Analysis
       <a href="https://www.linkedin.com/in/michael-mabinuola-031138102">
          <img alt="LinkedIn Page" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>   
       </a> 
-      <a href="michaelmabinuola@gmail.com">
+      <a href="https://michaelmabinuola@gmail.com">
          <img alt="Email Address" title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
      </a> 
      <a href="https://MichelMabinuola.github.io/Michael-Portfolio">
