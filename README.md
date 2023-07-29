@@ -16,6 +16,8 @@ As a Data Artisan with expertise spanning across Data Engineering, Data Analysis
      <a href="https://MichelMabinuola.github.io/Michael-Portfolio">
          <img alt="Website" title="Website-portfolio" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
      </a> 
+      <a href="https://github.com/MichaelMabinuola?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MichaelMabinuola?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
    </p>
 
