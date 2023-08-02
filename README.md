@@ -38,7 +38,7 @@ As a Data Artisan with expertise spanning across Data Engineering, Data Analysis
 ### Tools
 
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="./assets/icons/icons8-tableau-software-50.png" />
-<img align="left" alt="Rstudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/r/r-original.svg"/>
+<img align="left" alt="Rstudio" width="30px" style="padding-right:10px;" src="./assets/icons/kindpng_4036373.png"/>
 <img align="left" alt="Scikit-learn" width="30px" style="padding-right:10px;" src="./assets/icons/scikit-learn.256x139.png" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
