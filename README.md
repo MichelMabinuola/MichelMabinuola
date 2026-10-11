@@ -1,7 +1,7 @@
 # Hi there, I am Michael Mabinuola 👋
 
 
-I like pressing computers. I guess you could say I’m a button guy 😏
+I like pressing computers. I guess you could say I'm a button guy 😏
 
 ---
 
