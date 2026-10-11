@@ -1,7 +1,5 @@
 # Hi there, I am Michael Mabinuola 👋
 
-**`👨🏿‍🎨 Data Artisan (Data Engineer/Data Analyst/Data Scientist)`**
-
 
 I like pressing computers. I guess you could say I’m a button guy 😏
 
